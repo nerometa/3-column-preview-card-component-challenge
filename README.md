@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/solution-3column-preview-card-component-using-scss-and-bootstrap-0689tLw2hN)
 - [Live Site URL](https://nerometa.github.io/3-column-preview-card-component-challenge/)
 
 ## My process
